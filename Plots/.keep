@@ -1,0 +1,41 @@
+Plots produced by project_plot.R
+
+MAIN TEXT
+cod_growth_eight_best.jpg
+conceptual.jpg
+sim_biomass_best.jpg
+sim_yield_best.jpg
+
+
+SUPPLEMENT
+all_scaling.jpg
+cal_growth.jpg
+calibration_error.jpg
+calibration_error_rank.jpg
+cod_growth_eight.jpg
+final_error_cal.jpg
+final_error_sim.jpg
+occupancy.jpg
+oxygen.jpg
+sim_biomass.jpg
+sim_growth.jpg
+sim_growth_eight.jpg
+sim_yield.jpg
+simulation_error.jpg
+simulation_error_rank.jpg
+
+Plots produced by project_scenarios.R
+
+MAIN TEXT
+diet_scenarios.jpg
+foodweb_scenarios.jpg
+table_scenarios.jpg
+
+Semi-recognizable fish scribbles in one nice and one horrible palette produced by E Duskey
+
+bd_tp.jpg and bd_tp_orig.jpg: Saduria entomon as benthic food
+cd_tp.jpg and cd_tp_orig.jpg: cod
+fd_tp.jpg and fd_tp_orig.jpg: flounder
+hd_tp.jpg and hd_tp_orig.jpg: herring
+pd_tp.jpg and pd_tp_orig.jpg: generic copepod as pelagic food
+sd_tp.jpg and sd_tp_orig.jpg: sprat
